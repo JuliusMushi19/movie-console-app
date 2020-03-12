@@ -33,7 +33,7 @@ To-do list:
 * Find a movie
 
 ## Status
-Project is:_finished_
+Project is: _finished_
 
 ## Inspiration
 Project based on online course I took on Udemy.
