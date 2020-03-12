@@ -18,32 +18,25 @@ The goal of this project is to show my portifolio to the world.
 ![Movie App](./MovieConsoleApp.PNG)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* PyCharm
+* Python
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Since it was a simple app, there was not much setup required.
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+Features ready:
+* Add a movie
+* See a movie
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Find a movie
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is:_finished_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project based on online course I took on Udemy.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Julius Mushi - feel free to contact me!
