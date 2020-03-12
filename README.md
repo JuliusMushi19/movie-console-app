@@ -30,7 +30,7 @@ Features ready:
 * See a movie
 
 To-do list:
-* Find a movie
+* None
 
 ## Status
 Project is: _finished_
