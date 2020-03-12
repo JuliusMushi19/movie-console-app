@@ -22,7 +22,7 @@ The goal of this project is to show my portifolio to the world.
 * Python
 
 ## Setup
-Since it was a simple app, there was not much setup required.
+* Installed PyCharm
 
 ## Features
 Features ready:
