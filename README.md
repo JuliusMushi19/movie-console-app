@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![Movie App](./MovieConsoleApp.PNG)
+![Movie App](./MovieApp.PNG)
 
 ## Technologies
 * PyCharm
