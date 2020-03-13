@@ -29,6 +29,7 @@ Features ready:
 * Add a movie
 * See a movie
 * Find movie
+* Quit the app
 
 To-do list:
 * None
