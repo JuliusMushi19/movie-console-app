@@ -28,6 +28,7 @@ The goal of this project is to show my portifolio to the world.
 Features ready:
 * Add a movie
 * See a movie
+* Find movie
 
 To-do list:
 * None
